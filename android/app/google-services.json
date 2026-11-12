@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280006094050",
+    "project_id": "chatapp-dc8ec",
+    "storage_bucket": "chatapp-dc8ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280006094050:android:cc021ff6b6fc8178cec2bb",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLmbpL4wJdb8HEwHC4Yu772ePCuwBXqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
